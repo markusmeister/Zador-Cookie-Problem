@@ -13,4 +13,4 @@ What is optimal search strategy, ie where does he turn around?
 
 Solver gets a cookie''
 
-It's all in the Jupyter notebook `Cookie-A.ipynb`.
+It's all in the Jupyter notebook `Cookie_A.ipynb`.
